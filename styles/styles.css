@@ -322,13 +322,115 @@ nav li a {
     font-weight: 800;
 }
 
-.why-choose-us-third-box p{
+.why-choose-us-third-box p {
     padding-top: 15px;
     color: #5A5A5D;
     font-size: 1rem;
     font-style: normal;
     font-weight: 400;
-    text-align: justify; 
+    text-align: justify;
 }
 
 /*  Why Choose Us section end */
+
+/* deals-&-discounts section styles */
+/* .deals-and-discounts {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.deals-and-discounts-top h3 {
+    color: #131318;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.deals-and-discounts-top p {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.deals-and-discounts-first-div {
+    background-image: url('../Images/discount-one.png');
+    min-height: 500px;
+} */
+
+/* .deals-and-discounts-background {
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    height: 400px;
+    width: 550px; */
+
+/* margin-left: auto; */
+/* margin-top: +; */
+
+
+/* .deals-and-discounts-offer {
+    display: flex;
+
+
+}
+
+.deals-and-discounts-offer p {
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.deals-and-discounts-content{
+
+} */
+
+/*  A Simple Perfect Place To Get Lost section style start */
+
+.simple-perfect-place {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.simple-perfect-place-container {
+    display: flex;
+}
+
+.simple-perfect-place-div h3 {
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 60px;
+    width: 448px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.simple-perfect-place-div p {
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+
+.simple-perfect-place-div ul > li {
+    color: #131318;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+
+}
+
+#list-item{
+    padding-bottom: 25px;
+}
+
+.simple-perfect-place-div button{
+    margin-top: 30px;
+}
+
+
+/*   A Simple Perfect Place To Get Lost section style end */
