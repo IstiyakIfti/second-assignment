@@ -15,6 +15,19 @@
 }
 
 /* navigation styles  start*/
+
+.navigation-left h3 {
+    color: #131318;
+    font-size: 2.25rem;
+    font-weight: 800;
+}
+
+.destiny-one {
+    color: #FF5400;
+    font-size: 2.25rem;
+    font-weight: 800;
+}
+
 .navigation-content {
     margin: 50px auto;
     max-width: 1170px;
@@ -27,7 +40,7 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    padding-right: 400px;
+    padding-right: 300px;
 }
 
 .navigation-right {
@@ -78,6 +91,11 @@ nav li a {
 
 }
 
+.banner-style{
+    width: 676px;
+    margin: 0 auto;
+}
+
 .btn-one {
     color: rgba(19, 19, 24, 0.50);
     font-size: 1rem;
@@ -94,7 +112,7 @@ nav li a {
     color: #FFF;
     font-size: 1rem;
     font-weight: 700;
-    padding: 16px 34px 16px 67px;
+    padding: 16px 34px 16px 50px;
 }
 
 .banner-style h2 {
@@ -193,6 +211,8 @@ nav li a {
     text-align: center;
     font-size: 1rem;
     font-weight: 400;
+    padding-top: 30px;
+    padding-bottom: 30px;
 
 }
 
@@ -229,6 +249,7 @@ nav li a {
     font-weight: 400;
     width: 643px;
     margin: 0 auto;
+    padding-top: 30px;
 }
 
 .why-choose-us-two-img {
@@ -333,65 +354,13 @@ nav li a {
 
 /*  Why Choose Us section end */
 
-/* deals-&-discounts section styles */
-/* .deals-and-discounts {
-    width: 1170px;
-    margin: 0 auto;
-}
-
-.deals-and-discounts-top h3 {
-    color: #131318;
-    text-align: center;
-    font-size: 2.5rem;
-    font-weight: 800;
-}
-
-.deals-and-discounts-top p {
-    color: rgba(19, 19, 24, 0.70);
-    text-align: center;
-    font-size: 1rem;
-    font-weight: 400;
-}
-
-.deals-and-discounts-first-div {
-    background-image: url('../Images/discount-one.png');
-    min-height: 500px;
-} */
-
-/* .deals-and-discounts-background {
-    border-radius: 16px;
-    border: 2px solid #FFF;
-    background: rgba(255, 255, 255, 0.80);
-    backdrop-filter: blur(2.5px);
-    height: 400px;
-    width: 550px; */
-
-/* margin-left: auto; */
-/* margin-top: +; */
-
-
-/* .deals-and-discounts-offer {
-    display: flex;
-
-
-}
-
-.deals-and-discounts-offer p {
-    color: #5A5A5D;
-    font-size: 1rem;
-    font-weight: 400;
-    margin-top: 100px;
-}
-
-.deals-and-discounts-content{
-
-} */
 
 /*  A Simple Perfect Place To Get Lost section style start */
 
 .simple-perfect-place {
     width: 1170px;
     margin: 0 auto;
+    margin-top: 100px;
 }
 
 .simple-perfect-place-container {
@@ -443,6 +412,7 @@ nav li a {
     background: rgba(19, 19, 24, 0.05);
     margin: 0 auto;
     padding-top: 150px;
+    margin-top: 100px;
 }
 
 .footer-section-top {
