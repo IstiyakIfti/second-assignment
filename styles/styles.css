@@ -174,6 +174,7 @@ nav li a {
 /* popular-section styles end */
 
 /* destination-section styles start */
+
 .destination-section {
     width: 1170px;
     margin: 0 auto;
@@ -204,3 +205,130 @@ nav li a {
 .box img {
     width: 100%;
 }
+
+/*  Why Choose Us section start  */
+
+.why-choose-us {
+    width: 1170px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.why-choose-us-heading h3 {
+    color: #131318;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.why-choose-us-heading p {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    width: 643px;
+    margin: 0 auto;
+}
+
+.why-choose-us-two-img {
+    display: flex;
+    gap: 20px;
+    padding-top: 50px;
+
+}
+
+.why-choose-us-first-box {
+    width: 50%;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding: 30px 50px 0px 30px;
+}
+
+.why-choose-us-first-box img {
+    width: 64px;
+    height: 64px;
+}
+
+.why-choose-us-first-box h3 {
+    padding-top: 20px;
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.why-choose-us-first-box p {
+    padding-top: 15px;
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    text-align: justify;
+
+}
+
+.why-choose-us-second-box {
+    width: 50%;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    padding: 30px 50px 0px 30px;
+}
+
+.why-choose-us-second-box img {
+    width: 64px;
+    height: 64px;
+}
+
+.why-choose-us-second-box h3 {
+    padding-top: 20px;
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.why-choose-us-second-box p {
+    padding-top: 15px;
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    text-align: justify;
+}
+
+
+.why-choose-us-third-box {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    margin: 20px auto;
+    padding: 30px 50px 0px 30px;
+}
+
+.why-choose-us-third-box img {
+    width: 64px;
+    height: 64px;
+}
+
+.why-choose-us-third-box h3 {
+    padding-top: 20px;
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.why-choose-us-third-box p{
+    padding-top: 15px;
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    text-align: justify; 
+}
+
+/*  Why Choose Us section end */
